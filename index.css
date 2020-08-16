@@ -1,0 +1,54 @@
+.sub-topic{
+color: #4444f3;
+background-color: #cfe5cf;
+}
+.gray-text{
+color: #6f6f6f;
+background-color: #cfe5cf;
+}
+.header{
+height: 50px;
+background-color: #cfe5cf;
+}
+.name{
+margin-top:50px;
+margin-bottom: 50px;
+background-color: #cfe5cf;
+}
+.address{
+text-align: center;
+margin-bottom: 42px;
+background-color: #cfe5cf;
+}
+img {
+
+}
+.education{
+margin-top: 50px;
+background-color: #cfe5cf;
+}
+
+h2 {
+text-align: center;
+background-color: #cfe5cf;
+}
+
+div {
+background-color: #cfe5cf;
+}
+
+p {
+background-color: #cfe5cf;
+}
+
+#title {
+background-color: #cfe5cf;
+}
+
+hr {
+top: 1px;
+border: none;
+height: 12px;
+background: black;
+margin-bottom: 50px;
+}
